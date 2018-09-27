@@ -16,7 +16,7 @@ namespace ascendingDecending
             Array.Sort(arr);
             Array.Reverse(arr2);
 
-            for (int i = 0; i < max; i++)
+            for (int i = 0; i < arr.Length; i++)
             {
 
             }
